@@ -35,6 +35,6 @@ Date::Date(int year, int month, int day) {
     this->month = month;
 }
 
-Date::~Date() {
-    std::cout << "~Date()" << std::endl;
+void Date::show() {
+    std::cout << year << "年" << month << "月" << day << "日" << std::endl;
 }

@@ -37,7 +37,21 @@ void Human::setId(const std::string &id) {
     ID = id;
 }
 
-Human::Human(const std::string &number, const std::string &sex, const Date &birthDate, const std::string &id) : number(
-        number), sex(sex), birthDate(birthDate), ID(id) {
-    std::cout << "Human(string, string, Date, string)" << std::endl;
+
+
+void Human::setDate(int year, int month, int day) {
+    Human::birthDate = Date(year, month, day);
 }
+
+void Human::show() {
+    std::cout << "出生日期：";
+    birthDate.show();
+    std::cout << number << ", " << sex << ", " << ID << std::endl;
+}
+
+Human::Human(const std::string &number, const std::string &sex, const Date &birthDate, const std::string &id) : number(
+        number), sex(sex), birthDate(birthDate), ID(id) {}
+
+//void Human::set(std::string number, std::string sex, Date date, std::string id) {
+//    this->birthDate = birthDate;
+//}

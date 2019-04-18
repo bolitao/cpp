@@ -9,8 +9,6 @@
 class Date {
 public:
 
-    ~Date();
-
     Date(int year, int month, int day);
 
     int getYear() const;
@@ -24,6 +22,8 @@ public:
     int getDay() const;
 
     void setDay(int day);
+
+    void show();
 
 private:
     int year;

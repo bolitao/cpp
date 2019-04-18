@@ -29,6 +29,12 @@ public:
 
     void setId(const std::string &id);
 
+//    void set(std::string number, std::string sex, Date date, std::string id);
+
+    void setDate(int year, int month, int day);
+
+    void show();
+
 private:
     std::string number;
     std::string sex;
