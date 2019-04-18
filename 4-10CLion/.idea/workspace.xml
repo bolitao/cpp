@@ -12,27 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d62ef5bf-f409-4bc5-b60d-74859c2af1ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8-4CLion/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Date.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Date.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Date.h" beforeDir="false" afterPath="$PROJECT_DIR$/Date.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Human.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Human.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Human.h" beforeDir="false" afterPath="$PROJECT_DIR$/Human.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7-5VS/7-5/7-5.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7-5VS/7-5/7-5.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7-5VS/7-5/7-5.vcxproj.filters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7-5VS/7-5/Circle.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7-5VS/7-5/Circle.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7-5VS/7-5/Rectangle.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7-5VS/7-5/Rectangle.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7-5VS/7-5/Shape.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7-5VS/7-5/Shape.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7-5VS/7-5/Square.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7-5VS/7-5/Square.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7-5VS/7-5VS.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8-4CLion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8-4CLion/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CppLearningCLion" beforeDir="false" afterPath="$PROJECT_DIR$/../CppLearningCLion" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -153,6 +133,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -186,12 +169,12 @@
       <option name="presentableId" value="Default" />
       <updated>1555505899949</updated>
       <workItem from="1555505901136" duration="2307000" />
-      <workItem from="1555590895263" duration="1768000" />
+      <workItem from="1555590895263" duration="2375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4075000" />
+    <option name="totallyTimeSpent" value="4682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1136" extended-state="6" />
@@ -202,7 +185,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924336" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32924336" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
