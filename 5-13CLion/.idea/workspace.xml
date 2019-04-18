@@ -12,27 +12,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acd169c2-fad5-4761-88ef-e60fbc6ad4a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../4-19CLion/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5-14CLion/.idea/5-14CLion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5-14CLion/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5-14CLion/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5-14CLion/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5-14CLion/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5-14CLion/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5-14CLion/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5-14CLion/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4-10CLion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4-10CLion/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4-19CLion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4-19CLion/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4-19CLion/CPU.h" beforeDir="false" afterPath="$PROJECT_DIR$/../4-19CLion/CPU.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/X.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/X.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/X.h" beforeDir="false" afterPath="$PROJECT_DIR$/X.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Y.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y.h" beforeDir="false" afterPath="$PROJECT_DIR$/Y.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Z.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z.h" beforeDir="false" afterPath="$PROJECT_DIR$/Z.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/X.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/X.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z.h" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-14CLion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5-14CLion/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CppLearningCLion" beforeDir="false" afterPath="$PROJECT_DIR$/../CppLearningCLion" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -56,50 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/X.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/X.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Y.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Y.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Z.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Z.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="990">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -120,7 +67,7 @@
     </option>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="320" />
     <option name="y" value="175" />
     <option name="width" value="1920" />
@@ -185,23 +132,23 @@
       <updated>1555509187385</updated>
       <workItem from="1555509188539" duration="61000" />
       <workItem from="1555594883207" duration="3000" />
-      <workItem from="1555594909584" duration="1795000" />
+      <workItem from="1555594909584" duration="2168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1859000" />
+    <option name="totallyTimeSpent" value="2232000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2062" height="1136" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="2062" height="1136" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25499" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25499" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32924336" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924336" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -256,8 +203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="990">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>

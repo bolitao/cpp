@@ -12,27 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bcef251-8206-4f25-97df-c0ae348d3b50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../4-19CLion/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/5-14CLion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4-10CLion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4-10CLion/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4-19CLion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4-19CLion/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4-19CLion/CPU.h" beforeDir="false" afterPath="$PROJECT_DIR$/../4-19CLion/CPU.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5-13CLion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5-13CLion/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5-13CLion/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../5-13CLion/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5-13CLion/X.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../5-13CLion/X.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5-13CLion/X.h" beforeDir="false" afterPath="$PROJECT_DIR$/../5-13CLion/X.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5-13CLion/Y.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../5-13CLion/Y.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5-13CLion/Y.h" beforeDir="false" afterPath="$PROJECT_DIR$/../5-13CLion/Y.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5-13CLion/Z.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../5-13CLion/Z.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5-13CLion/Z.h" beforeDir="false" afterPath="$PROJECT_DIR$/../5-13CLion/Z.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5-13CLion/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../5-13CLion/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CppLearningCLion" beforeDir="false" afterPath="$PROJECT_DIR$/../CppLearningCLion" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -56,7 +35,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-89">
               <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
@@ -143,16 +122,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555595867227</updated>
-      <workItem from="1555595868413" duration="938000" />
+      <workItem from="1555595868413" duration="1024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="938000" />
+    <option name="totallyTimeSpent" value="1024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1136" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -165,7 +143,7 @@
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924336" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32924336" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -213,7 +191,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-89">
           <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
