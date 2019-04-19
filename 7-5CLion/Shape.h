@@ -8,7 +8,7 @@
 
 class Shape {
 public:
-    int getArea();
+    virtual int getArea();
 };
 
 

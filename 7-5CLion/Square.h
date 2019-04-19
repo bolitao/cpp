@@ -1,5 +1,5 @@
 //
-// Created by Boli Tao on 2019/4/17.
+// Created by Boli Tao on 2019/4/19.
 //
 
 #ifndef INC_7_5CLION_SQUARE_H
@@ -10,9 +10,7 @@
 
 class Square : public Rectangle {
 public:
-    Square(int width, int length);
-
-    int width;
+    Square(double len);
 };
 
 
