@@ -3,4 +3,4 @@ project(4_19CLion)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(4_19CLion main.cpp CPU.cpp CPU.h)
+add_executable(4_19CLion main.cpp)
