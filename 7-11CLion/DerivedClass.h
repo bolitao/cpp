@@ -6,7 +6,9 @@
 #define INC_7_11CLION_DERIVEDCLASS_H
 
 
-class DerivedClass {
+#include "BaseClass.h"
+
+class DerivedClass : public BaseClass {
 public:
     void fn1();
 
