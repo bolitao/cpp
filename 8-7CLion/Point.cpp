@@ -5,17 +5,20 @@
 #include "Point.h"
 
 Point &Point::operator++() {
-//    this->x++;
-//    this->y++;
-    Point::x++;
-    Point::y++;
+    this->x++;
+    this->y++;
+//    Point::x++;
+//    Point::y++;
     return *this;
 }
 
 Point Point::operator++(int) {
-    this->x++;
-    this->y++;
-    return *this;
+//    this->x++;
+//    this->y++;
+//    return *this;
+    Point tmp = *this;
+    ++*this;
+    return tmp;
 }
 
 Point &Point::operator--() {
@@ -25,9 +28,12 @@ Point &Point::operator--() {
 }
 
 Point Point::operator--(int) {
-    this->x--;
-    this->y--;
-    return *this;
+//    this->x--;
+//    this->y--;
+//    return *this;
+    Point tmp = *this;
+    --*this;
+    return tmp;
 }
 
 int Point::getX() const {
