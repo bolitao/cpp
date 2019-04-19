@@ -4,6 +4,4 @@
 
 #include "Square.h"
 
-int Square::getArea() {
-    return width * width;
-}
+Square::Square(int width, int length) : Rectangle(width, length) {}

@@ -10,8 +10,9 @@
 
 class Square : public Rectangle {
 public:
+    Square(int width, int length);
+
     int width;
-    int getArea();
 };
 
 

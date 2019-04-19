@@ -12,16 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acd169c2-fad5-4761-88ef-e60fbc6ad4a3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/X.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/X.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Z.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5-14CLion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5-14CLion/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CppLearningCLion" beforeDir="false" afterPath="$PROJECT_DIR$/../CppLearningCLion" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -45,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="286">
+              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -132,15 +122,16 @@
       <updated>1555509187385</updated>
       <workItem from="1555509188539" duration="61000" />
       <workItem from="1555594883207" duration="3000" />
-      <workItem from="1555594909584" duration="2168000" />
+      <workItem from="1555594909584" duration="2763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2232000" />
+    <option name="totallyTimeSpent" value="2827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1136" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25499" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -148,7 +139,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32924336" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924336" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32924336" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -203,8 +194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="286">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
