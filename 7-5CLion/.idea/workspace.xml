@@ -182,10 +182,10 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="225" />
-    <option name="y" value="135" />
-    <option name="width" value="1350" />
-    <option name="height" value="820" />
+    <option name="x" value="320" />
+    <option name="y" value="175" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -216,7 +216,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../8-4CLion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../4-11CLion" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
@@ -254,15 +254,16 @@
       <workItem from="1555056999719" duration="13000" />
       <workItem from="1555510281759" duration="689000" />
       <workItem from="1555597961283" duration="3074000" />
-      <workItem from="1555637033812" duration="2963000" />
+      <workItem from="1555637033812" duration="3329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6864000" />
+    <option name="totallyTimeSpent" value="7230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1136" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24151696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
